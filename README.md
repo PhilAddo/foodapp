@@ -4,4 +4,4 @@ Node version ^18.17.1 is required
 
 Setup
 1. Clone the repository
-2. Run 'npm run dev' to run and view the project
+2. Run 'npm run dev' in the terminal to run and view the project
